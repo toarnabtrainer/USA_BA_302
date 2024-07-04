@@ -48,6 +48,9 @@ https://www.drawio.com/blog/diagrams-offline
 **YouTube UML Tutorial Link:**<br>
 https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6MSsk
 
+**UML Text Toturial Link:**<br>
+https://www.geeksforgeeks.org/unified-modeling-language-uml-introduction/
+
 **UML Project Diagram Samples:**<br>
 https://in.pinterest.com/meeraacademy/project-uml-diagram/
 
